@@ -1,3 +1,2 @@
-# auth-microservice
-This project is an authentication microservice designed with Clean Code Architecture principles. The architecture ensures a modular, maintainable and scalable codebase. Built using JavaScript/TypeScript, this microservice provides robust and scalable authentication functionalities, suitable for modern distributed systems.
 # ms-jwt-token
+This project is an authentication microservice focused on managing and handling JWT. Designed with Clean Architecture principles, the codebase is modular, maintainable, and scalable, making it ideal for modern distributed systems. The microservice is implemented using Node.js and TypeScript to provide robust JWT generation, validation, and management functionalities.
